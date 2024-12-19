@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --supabase-dark: #1c1c1c;
+  --supabase-darker: #121212;
+  --supabase-green: #3ecf8e;
+  --supabase-light-green: #4ffca6;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+}
